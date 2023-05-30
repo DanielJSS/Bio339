@@ -72,4 +72,4 @@ quantile(signups, c(0.025, 0.975))
 # y = cont respons, x = cont or categorical predictor,  
 
 
-  
+
